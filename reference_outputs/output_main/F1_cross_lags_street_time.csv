@@ -1,0 +1,55 @@
+"model","variable","predictor","domain","band","X_to_off","lo","hi","p","off_to_X","lo_r","hi_r","p_r"
+"street_time","EXPECT","Expectations for the future","Cognitive","16-18",0.072,-0.019,0.164,0.121,-0.042,-0.08,-0.004,0.031
+"street_time","EXPECT","Expectations for the future","Cognitive","18-21",-0.03,-0.075,0.015,0.196,-0.004,-0.044,0.037,0.85
+"street_time","EXPECT","Expectations for the future","Cognitive","21-23",-0.04,-0.09,0.011,0.125,-0.089,-0.154,-0.023,0.008
+"street_time","MORDIS","Moral disengagement","Cognitive","16-18",0.095,0.013,0.176,0.023,0.036,-0.001,0.074,0.057
+"street_time","MORDIS","Moral disengagement","Cognitive","18-21",-0.023,-0.074,0.028,0.38,0.016,-0.029,0.06,0.494
+"street_time","MORDIS","Moral disengagement","Cognitive","21-23",0.081,0.016,0.145,0.014,0.014,-0.052,0.08,0.674
+"street_time","SOCCST","Social costs of punishment","Cognitive","16-18",0.008,-0.049,0.065,0.79,0.013,-0.024,0.051,0.484
+"street_time","SOCCST","Social costs of punishment","Cognitive","18-21",0.026,-0.011,0.062,0.164,0.035,-0.008,0.078,0.11
+"street_time","SOCCST","Social costs of punishment","Cognitive","21-23",-0.029,-0.071,0.014,0.19,-0.027,-0.091,0.036,0.398
+"street_time","PUNYOU","Certainty of punishment","Cognitive","16-18",0.015,-0.058,0.088,0.681,-0.061,-0.098,-0.023,0.001
+"street_time","PUNYOU","Certainty of punishment","Cognitive","18-21",0.04,-0.005,0.085,0.079,0.023,-0.019,0.065,0.285
+"street_time","PUNYOU","Certainty of punishment","Cognitive","21-23",-0.006,-0.05,0.038,0.779,-0.047,-0.114,0.021,0.174
+"street_time","PERRWD","Personal rewards of crime","Cognitive","16-18",0.127,0.057,0.197,0,0.087,0.045,0.129,0
+"street_time","PERRWD","Personal rewards of crime","Cognitive","18-21",0.056,0.004,0.108,0.036,0.047,0.001,0.092,0.045
+"street_time","PERRWD","Personal rewards of crime","Cognitive","21-23",0.006,-0.05,0.062,0.845,-0.016,-0.082,0.051,0.646
+"street_time","SOCRWD","Social rewards of crime","Cognitive","16-18",0.075,0.008,0.142,0.028,0.007,-0.031,0.045,0.72
+"street_time","SOCRWD","Social rewards of crime","Cognitive","18-21",0.019,-0.027,0.066,0.419,0.048,0.001,0.094,0.046
+"street_time","SOCRWD","Social rewards of crime","Cognitive","21-23",0.004,-0.035,0.043,0.841,0.021,-0.043,0.086,0.516
+"street_time","PSMIID","Identity (PSMI)","Cognitive","16-18",0.009,-0.053,0.071,0.777,-0.023,-0.059,0.013,0.217
+"street_time","PSMIID","Identity (PSMI)","Cognitive","18-21",-0.017,-0.055,0.022,0.395,-0.025,-0.064,0.014,0.21
+"street_time","PSMIID","Identity (PSMI)","Cognitive","21-23",-0.025,-0.07,0.019,0.263,-0.006,-0.058,0.046,0.812
+"street_time","IMPULS","Impulse control","Maturation","16-18",-0.037,-0.113,0.039,0.341,-0.033,-0.07,0.004,0.083
+"street_time","IMPULS","Impulse control","Maturation","18-21",-0.009,-0.059,0.041,0.727,-0.037,-0.078,0.004,0.076
+"street_time","IMPULS","Impulse control","Maturation","21-23",-0.068,-0.13,-0.006,0.031,-0.008,-0.063,0.047,0.78
+"street_time","SUPAGG","Suppression of aggression","Maturation","16-18",-0.032,-0.1,0.037,0.363,-0.049,-0.084,-0.014,0.006
+"street_time","SUPAGG","Suppression of aggression","Maturation","18-21",-0.026,-0.073,0.021,0.284,-0.023,-0.061,0.015,0.24
+"street_time","SUPAGG","Suppression of aggression","Maturation","21-23",-0.038,-0.093,0.018,0.188,-0.012,-0.062,0.039,0.649
+"street_time","CONSID","Consideration of others","Maturation","16-18",-0.03,-0.093,0.033,0.352,-0.018,-0.056,0.019,0.337
+"street_time","CONSID","Consideration of others","Maturation","18-21",0.018,-0.028,0.064,0.436,0.033,-0.014,0.081,0.166
+"street_time","CONSID","Consideration of others","Maturation","21-23",-0.019,-0.074,0.036,0.498,0.023,-0.039,0.085,0.469
+"street_time","FUTURE","Future orientation","Maturation","16-18",-0.028,-0.101,0.046,0.463,-0.037,-0.076,0.003,0.07
+"street_time","FUTURE","Future orientation","Maturation","18-21",0.011,-0.034,0.056,0.641,0.006,-0.032,0.044,0.769
+"street_time","FUTURE","Future orientation","Maturation","21-23",-0.045,-0.096,0.007,0.09,-0.004,-0.063,0.055,0.895
+"street_time","PEERPR","Resistance to peer influence","Maturation","16-18",0.014,-0.042,0.07,0.629,-0.02,-0.057,0.018,0.307
+"street_time","PEERPR","Resistance to peer influence","Maturation","18-21",-0.003,-0.05,0.044,0.907,-0.021,-0.067,0.025,0.373
+"street_time","PEERPR","Resistance to peer influence","Maturation","21-23",-0.019,-0.07,0.031,0.449,0.014,-0.037,0.066,0.585
+"street_time","PSMI","Psychosocial maturity (PSMI)","Maturation","16-18",0.007,-0.055,0.068,0.828,-0.037,-0.072,-0.002,0.041
+"street_time","PSMI","Psychosocial maturity (PSMI)","Maturation","18-21",-0.009,-0.051,0.033,0.667,-0.025,-0.064,0.013,0.2
+"street_time","PSMI","Psychosocial maturity (PSMI)","Maturation","21-23",-0.019,-0.066,0.027,0.415,0.005,-0.047,0.057,0.845
+"street_time","PRINFL","Peer antisocial influence","Positive control","16-18",0.046,-0.017,0.11,0.15,0.073,0.011,0.136,0.021
+"street_time","PRINFL","Peer antisocial influence","Positive control","18-21",0.072,0.022,0.122,0.005,-0.013,-0.078,0.052,0.692
+"street_time","PRINFL","Peer antisocial influence","Positive control","21-23",0.047,-0.021,0.116,0.177,-0.037,-0.116,0.042,0.36
+"street_time","WORK_PROP","Employment (share of period)","Bonds","16-18",0.076,-0.184,0.336,0.565,-0.004,-0.016,0.007,0.442
+"street_time","WORK_PROP","Employment (share of period)","Bonds","18-21",0.003,-0.095,0.101,0.95,-0.01,-0.023,0.002,0.107
+"street_time","WORK_PROP","Employment (share of period)","Bonds","21-23",-0.031,-0.147,0.084,0.594,-0.044,-0.065,-0.023,0
+"street_time","SCHOOL_PROP","School (share of period)","Bonds","16-18",0.114,-0.052,0.281,0.178,-0.017,-0.031,-0.003,0.014
+"street_time","SCHOOL_PROP","School (share of period)","Bonds","18-21",0.04,-0.063,0.142,0.449,-0.003,-0.01,0.004,0.436
+"street_time","SCHOOL_PROP","School (share of period)","Bonds","21-23",0.063,-0.145,0.27,0.554,0.001,-0.009,0.011,0.809
+"street_time","PARTNER","Living with partner","Bonds","16-18",0.209,-0.137,0.554,0.236,0.009,-0.003,0.021,0.149
+"street_time","PARTNER","Living with partner","Bonds","18-21",-0.059,-0.143,0.026,0.172,-0.014,-0.032,0.003,0.113
+"street_time","PARTNER","Living with partner","Bonds","21-23",0.073,-0.023,0.169,0.137,-0.049,-0.072,-0.026,0
+"street_time","PARENT","Parent","Bonds","16-18",0.099,-0.075,0.272,0.266,-0.003,-0.023,0.017,0.775
+"street_time","PARENT","Parent","Bonds","18-21",0.067,-0.019,0.154,0.127,0.016,0,0.033,0.055
+"street_time","PARENT","Parent","Bonds","21-23",0.082,0.002,0.162,0.044,-0.012,-0.03,0.005,0.172

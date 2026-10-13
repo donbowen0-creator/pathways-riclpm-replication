@@ -1,14 +1,16 @@
 # Never commit ICPSR data or files derived from respondent-level data
-DS00*/
+/DS00*/
 *.rda
 *.rds
 *.sav
 *.dta
-output/
-output_r/
-output_checks/
-output_main/
-figures/
+# Run outputs (written to the ICPSR_29961 folder, but ignored here in case the
+# scripts are run from inside this folder). reference_outputs/ is tracked.
+/output/
+/output_r/
+/output_checks/
+/output_main/
+/figures/
 verification_report.txt
 run_log*.txt
 .Rhistory

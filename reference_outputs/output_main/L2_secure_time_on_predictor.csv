@@ -1,0 +1,19 @@
+"variable","predictor","secure_time_on_X","lo","hi"
+"EXPECT","Expectations for the future",0.093,0.032,0.154
+"MORDIS","Moral disengagement",0.004,-0.062,0.071
+"SOCCST","Social costs of punishment",0.039,-0.03,0.107
+"PUNYOU","Certainty of punishment",-0.188,-0.256,-0.12
+"PERRWD","Personal rewards of crime",0.063,0.003,0.124
+"SOCRWD","Social rewards of crime",0.101,0.031,0.17
+"PSMIID","Identity (PSMI)",0.065,0.002,0.128
+"IMPULS","Impulse control",-0.043,-0.104,0.017
+"SUPAGG","Suppression of aggression",0.016,-0.044,0.076
+"CONSID","Consideration of others",-0.062,-0.127,0.002
+"FUTURE","Future orientation",0.075,0.009,0.141
+"PEERPR","Resistance to peer influence",-0.018,-0.083,0.046
+"PSMI","Psychosocial maturity (PSMI)",0.013,-0.049,0.075
+"PRINFL","Peer antisocial influence",-0.31,-0.394,-0.226
+"WORK_PROP","Employment (share of period)",-0.295,-0.318,-0.273
+"SCHOOL_PROP","School (share of period)",-0.111,-0.13,-0.093
+"PARTNER","Living with partner",-0.161,-0.19,-0.133
+"PARENT","Parent",0.015,-0.005,0.034

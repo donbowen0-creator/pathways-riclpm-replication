@@ -1,0 +1,19 @@
+"variable","predictor","domain","n","converged","CFI","RMSEA","SRMR"
+"EXPECT","Expectations for the future","Cognitive",1349,TRUE,0.986,0.03,0.039
+"MORDIS","Moral disengagement","Cognitive",1349,TRUE,0.981,0.037,0.051
+"SOCCST","Social costs of punishment","Cognitive",1349,TRUE,0.973,0.035,0.04
+"PUNYOU","Certainty of punishment","Cognitive",1349,TRUE,0.993,0.021,0.039
+"PERRWD","Personal rewards of crime","Cognitive",1349,TRUE,0.976,0.041,0.038
+"SOCRWD","Social rewards of crime","Cognitive",1349,TRUE,0.974,0.038,0.045
+"PSMIID","Identity (PSMI)","Cognitive",1349,TRUE,0.983,0.031,0.036
+"IMPULS","Impulse control","Maturation",1349,TRUE,0.977,0.043,0.05
+"SUPAGG","Suppression of aggression","Maturation",1349,TRUE,0.981,0.038,0.043
+"CONSID","Consideration of others","Maturation",1349,TRUE,0.983,0.032,0.04
+"FUTURE","Future orientation","Maturation",1349,TRUE,0.967,0.044,0.041
+"PEERPR","Resistance to peer influence","Maturation",1349,TRUE,0.979,0.035,0.046
+"PSMI","Psychosocial maturity (PSMI)","Maturation",1349,TRUE,0.987,0.028,0.034
+"PRINFL","Peer antisocial influence","Positive control",1349,TRUE,0.981,0.034,0.039
+"WORK_PROP","Employment (share of period)","Bonds",1349,TRUE,0.938,0.059,0.059
+"SCHOOL_PROP","School (share of period)","Bonds",1349,TRUE,0.977,0.03,0.035
+"PARTNER","Living with partner","Bonds",1349,TRUE,0.964,0.038,0.046
+"PARENT","Parent","Bonds",1349,TRUE,1,0,0.037

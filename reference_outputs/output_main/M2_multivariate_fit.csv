@@ -1,0 +1,5 @@
+"model","n","variables","parameters","converged_proper","loglik","AIC","BIC"
+"M1_cognitive",1349,8,836,TRUE,-84154.512,169309.024,171912.583
+"M2_maturation",1349,6,489,TRUE,-60732.068,122082.136,123691.135
+"M3_bonds",1349,5,350,TRUE,-15121.485,30702.97,31900.607
+"M4_across",1349,8,836,TRUE,-80697.813,162395.626,164999.186

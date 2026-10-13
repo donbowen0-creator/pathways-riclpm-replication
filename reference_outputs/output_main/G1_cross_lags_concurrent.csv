@@ -1,0 +1,109 @@
+"model","variable","predictor","domain","band","X_to_off","lo","hi","p","off_to_X","lo_r","hi_r","p_r"
+"concurrent_xy","EXPECT","Expectations for the future","Cognitive","16-18",0.088,-0.003,0.179,0.057,-0.045,-0.082,-0.007,0.019
+"concurrent_xy","EXPECT","Expectations for the future","Cognitive","18-21",-0.006,-0.051,0.038,0.78,-0.01,-0.049,0.028,0.604
+"concurrent_xy","EXPECT","Expectations for the future","Cognitive","21-23",0.001,-0.05,0.051,0.976,-0.086,-0.152,-0.02,0.011
+"concurrent_yx","EXPECT","Expectations for the future","Cognitive","16-18",0.054,-0.037,0.145,0.243,-0.027,-0.065,0.011,0.162
+"concurrent_yx","EXPECT","Expectations for the future","Cognitive","18-21",-0.026,-0.07,0.019,0.263,0.006,-0.032,0.043,0.767
+"concurrent_yx","EXPECT","Expectations for the future","Cognitive","21-23",-0.021,-0.072,0.029,0.409,-0.053,-0.118,0.012,0.113
+"concurrent_xy","MORDIS","Moral disengagement","Cognitive","16-18",0.047,-0.036,0.13,0.266,0.035,-0.002,0.072,0.065
+"concurrent_xy","MORDIS","Moral disengagement","Cognitive","18-21",-0.05,-0.098,-0.001,0.046,0.018,-0.026,0.062,0.419
+"concurrent_xy","MORDIS","Moral disengagement","Cognitive","21-23",0.051,-0.01,0.112,0.104,0.017,-0.047,0.082,0.599
+"concurrent_yx","MORDIS","Moral disengagement","Cognitive","16-18",0.091,0.008,0.174,0.032,0.015,-0.022,0.052,0.426
+"concurrent_yx","MORDIS","Moral disengagement","Cognitive","18-21",-0.033,-0.085,0.019,0.211,0.002,-0.04,0.043,0.932
+"concurrent_yx","MORDIS","Moral disengagement","Cognitive","21-23",0.072,0.009,0.135,0.024,-0.015,-0.077,0.047,0.639
+"concurrent_xy","SOCCST","Social costs of punishment","Cognitive","16-18",0.026,-0.032,0.084,0.382,0.013,-0.025,0.051,0.506
+"concurrent_xy","SOCCST","Social costs of punishment","Cognitive","18-21",0.023,-0.013,0.059,0.202,0.032,-0.01,0.074,0.138
+"concurrent_xy","SOCCST","Social costs of punishment","Cognitive","21-23",-0.026,-0.068,0.015,0.211,-0.033,-0.096,0.03,0.301
+"concurrent_yx","SOCCST","Social costs of punishment","Cognitive","16-18",0.023,-0.035,0.08,0.44,0.016,-0.022,0.053,0.412
+"concurrent_yx","SOCCST","Social costs of punishment","Cognitive","18-21",0.02,-0.016,0.057,0.27,0.031,-0.01,0.073,0.139
+"concurrent_yx","SOCCST","Social costs of punishment","Cognitive","21-23",-0.028,-0.07,0.013,0.182,-0.031,-0.093,0.03,0.321
+"concurrent_xy","PUNYOU","Certainty of punishment","Cognitive","16-18",0.049,-0.025,0.123,0.194,-0.059,-0.095,-0.022,0.002
+"concurrent_xy","PUNYOU","Certainty of punishment","Cognitive","18-21",0.056,0.011,0.102,0.014,0.022,-0.02,0.063,0.304
+"concurrent_xy","PUNYOU","Certainty of punishment","Cognitive","21-23",0.011,-0.031,0.054,0.602,-0.052,-0.118,0.014,0.125
+"concurrent_yx","PUNYOU","Certainty of punishment","Cognitive","16-18",0.025,-0.05,0.099,0.517,-0.043,-0.08,-0.006,0.023
+"concurrent_yx","PUNYOU","Certainty of punishment","Cognitive","18-21",0.039,-0.006,0.085,0.09,0.031,-0.01,0.072,0.135
+"concurrent_yx","PUNYOU","Certainty of punishment","Cognitive","21-23",0.001,-0.042,0.045,0.946,-0.027,-0.092,0.037,0.404
+"concurrent_xy","PERRWD","Personal rewards of crime","Cognitive","16-18",0.082,0.013,0.151,0.02,0.084,0.042,0.125,0
+"concurrent_xy","PERRWD","Personal rewards of crime","Cognitive","18-21",0.019,-0.032,0.069,0.466,0.039,-0.006,0.084,0.088
+"concurrent_xy","PERRWD","Personal rewards of crime","Cognitive","21-23",-0.003,-0.059,0.053,0.925,0.001,-0.064,0.065,0.983
+"concurrent_yx","PERRWD","Personal rewards of crime","Cognitive","16-18",0.124,0.053,0.195,0.001,0.062,0.023,0.101,0.002
+"concurrent_yx","PERRWD","Personal rewards of crime","Cognitive","18-21",0.053,0,0.106,0.051,0.027,-0.017,0.071,0.231
+"concurrent_yx","PERRWD","Personal rewards of crime","Cognitive","21-23",0.013,-0.041,0.067,0.645,-0.035,-0.097,0.028,0.275
+"concurrent_xy","SOCRWD","Social rewards of crime","Cognitive","16-18",0.043,-0.025,0.111,0.217,0.009,-0.03,0.048,0.643
+"concurrent_xy","SOCRWD","Social rewards of crime","Cognitive","18-21",-0.015,-0.061,0.031,0.533,0.048,0.002,0.094,0.041
+"concurrent_xy","SOCRWD","Social rewards of crime","Cognitive","21-23",-0.019,-0.056,0.019,0.33,0.027,-0.038,0.092,0.419
+"concurrent_yx","SOCRWD","Social rewards of crime","Cognitive","16-18",0.083,0.014,0.152,0.019,-0.013,-0.051,0.026,0.519
+"concurrent_yx","SOCRWD","Social rewards of crime","Cognitive","18-21",0.008,-0.038,0.055,0.723,0.03,-0.015,0.074,0.194
+"concurrent_yx","SOCRWD","Social rewards of crime","Cognitive","21-23",-0.003,-0.041,0.036,0.891,-0.013,-0.077,0.051,0.691
+"concurrent_xy","PSMIID","Identity (PSMI)","Cognitive","16-18",0.025,-0.037,0.087,0.428,-0.027,-0.062,0.009,0.144
+"concurrent_xy","PSMIID","Identity (PSMI)","Cognitive","18-21",0.005,-0.032,0.042,0.784,-0.021,-0.057,0.015,0.246
+"concurrent_xy","PSMIID","Identity (PSMI)","Cognitive","21-23",-0.013,-0.056,0.031,0.571,-0.017,-0.067,0.033,0.514
+"concurrent_yx","PSMIID","Identity (PSMI)","Cognitive","16-18",0.01,-0.052,0.073,0.743,-0.015,-0.052,0.021,0.408
+"concurrent_yx","PSMIID","Identity (PSMI)","Cognitive","18-21",-0.007,-0.044,0.031,0.724,-0.013,-0.048,0.022,0.463
+"concurrent_yx","PSMIID","Identity (PSMI)","Cognitive","21-23",-0.02,-0.064,0.024,0.367,0,-0.049,0.049,0.999
+"concurrent_xy","IMPULS","Impulse control","Maturation","16-18",0.002,-0.073,0.077,0.96,-0.031,-0.068,0.006,0.1
+"concurrent_xy","IMPULS","Impulse control","Maturation","18-21",0.024,-0.022,0.07,0.303,-0.037,-0.075,0,0.052
+"concurrent_xy","IMPULS","Impulse control","Maturation","21-23",-0.025,-0.081,0.031,0.377,-0.014,-0.068,0.04,0.601
+"concurrent_yx","IMPULS","Impulse control","Maturation","16-18",-0.042,-0.118,0.035,0.287,-0.01,-0.044,0.025,0.58
+"concurrent_yx","IMPULS","Impulse control","Maturation","18-21",-0.007,-0.054,0.04,0.777,-0.019,-0.054,0.016,0.298
+"concurrent_yx","IMPULS","Impulse control","Maturation","21-23",-0.055,-0.114,0.003,0.065,0.028,-0.025,0.081,0.308
+"concurrent_xy","SUPAGG","Suppression of aggression","Maturation","16-18",0.01,-0.057,0.078,0.769,-0.043,-0.078,-0.007,0.018
+"concurrent_xy","SUPAGG","Suppression of aggression","Maturation","18-21",0.007,-0.037,0.05,0.754,-0.024,-0.06,0.012,0.185
+"concurrent_xy","SUPAGG","Suppression of aggression","Maturation","21-23",0.01,-0.043,0.064,0.703,-0.028,-0.079,0.022,0.272
+"concurrent_yx","SUPAGG","Suppression of aggression","Maturation","16-18",-0.04,-0.109,0.028,0.25,-0.02,-0.053,0.012,0.222
+"concurrent_yx","SUPAGG","Suppression of aggression","Maturation","18-21",-0.033,-0.078,0.013,0.16,-0.008,-0.043,0.027,0.647
+"concurrent_yx","SUPAGG","Suppression of aggression","Maturation","21-23",-0.04,-0.095,0.016,0.159,0.012,-0.036,0.06,0.623
+"concurrent_xy","CONSID","Consideration of others","Maturation","16-18",-0.019,-0.082,0.045,0.561,-0.022,-0.059,0.016,0.257
+"concurrent_xy","CONSID","Consideration of others","Maturation","18-21",0.024,-0.019,0.068,0.266,0.033,-0.012,0.078,0.146
+"concurrent_xy","CONSID","Consideration of others","Maturation","21-23",-0.017,-0.068,0.035,0.526,0.02,-0.041,0.081,0.522
+"concurrent_yx","CONSID","Consideration of others","Maturation","16-18",-0.03,-0.094,0.034,0.353,-0.013,-0.051,0.024,0.493
+"concurrent_yx","CONSID","Consideration of others","Maturation","18-21",0.019,-0.026,0.063,0.408,0.04,-0.003,0.084,0.066
+"concurrent_yx","CONSID","Consideration of others","Maturation","21-23",-0.02,-0.072,0.032,0.444,0.034,-0.026,0.094,0.266
+"concurrent_xy","FUTURE","Future orientation","Maturation","16-18",-0.003,-0.076,0.07,0.929,-0.035,-0.075,0.005,0.082
+"concurrent_xy","FUTURE","Future orientation","Maturation","18-21",0.023,-0.02,0.066,0.298,-0.001,-0.037,0.035,0.968
+"concurrent_xy","FUTURE","Future orientation","Maturation","21-23",-0.031,-0.079,0.017,0.21,-0.007,-0.064,0.051,0.817
+"concurrent_yx","FUTURE","Future orientation","Maturation","16-18",-0.023,-0.097,0.051,0.546,-0.021,-0.061,0.018,0.291
+"concurrent_yx","FUTURE","Future orientation","Maturation","18-21",0.006,-0.038,0.05,0.789,0.009,-0.027,0.045,0.621
+"concurrent_yx","FUTURE","Future orientation","Maturation","21-23",-0.04,-0.089,0.009,0.108,0.014,-0.043,0.07,0.64
+"concurrent_xy","PEERPR","Resistance to peer influence","Maturation","16-18",0.024,-0.033,0.082,0.405,-0.02,-0.057,0.016,0.275
+"concurrent_xy","PEERPR","Resistance to peer influence","Maturation","18-21",0.015,-0.031,0.06,0.529,-0.014,-0.059,0.03,0.53
+"concurrent_xy","PEERPR","Resistance to peer influence","Maturation","21-23",0.003,-0.044,0.051,0.886,0.011,-0.041,0.063,0.672
+"concurrent_yx","PEERPR","Resistance to peer influence","Maturation","16-18",0.013,-0.045,0.07,0.662,-0.011,-0.048,0.026,0.56
+"concurrent_yx","PEERPR","Resistance to peer influence","Maturation","18-21",0.009,-0.037,0.055,0.707,-0.007,-0.051,0.036,0.749
+"concurrent_yx","PEERPR","Resistance to peer influence","Maturation","21-23",-0.006,-0.055,0.042,0.799,0.024,-0.027,0.075,0.364
+"concurrent_xy","PSMI","Psychosocial maturity (PSMI)","Maturation","16-18",0.027,-0.035,0.089,0.396,-0.038,-0.073,-0.004,0.03
+"concurrent_xy","PSMI","Psychosocial maturity (PSMI)","Maturation","18-21",0.013,-0.027,0.053,0.535,-0.025,-0.062,0.011,0.175
+"concurrent_xy","PSMI","Psychosocial maturity (PSMI)","Maturation","21-23",-0.001,-0.047,0.046,0.974,-0.003,-0.053,0.047,0.907
+"concurrent_yx","PSMI","Psychosocial maturity (PSMI)","Maturation","16-18",0.007,-0.054,0.069,0.815,-0.026,-0.061,0.009,0.148
+"concurrent_yx","PSMI","Psychosocial maturity (PSMI)","Maturation","18-21",-0.003,-0.044,0.037,0.882,-0.015,-0.05,0.02,0.41
+"concurrent_yx","PSMI","Psychosocial maturity (PSMI)","Maturation","21-23",-0.01,-0.057,0.037,0.672,0.016,-0.034,0.065,0.53
+"concurrent_xy","PRINFL","Peer antisocial influence","Positive control","16-18",-0.006,-0.066,0.054,0.839,0.073,0.011,0.135,0.022
+"concurrent_xy","PRINFL","Peer antisocial influence","Positive control","18-21",0.016,-0.028,0.059,0.478,-0.021,-0.087,0.046,0.544
+"concurrent_xy","PRINFL","Peer antisocial influence","Positive control","21-23",0.007,-0.054,0.068,0.827,-0.007,-0.088,0.074,0.862
+"concurrent_yx","PRINFL","Peer antisocial influence","Positive control","16-18",0.048,-0.015,0.112,0.138,0.003,-0.053,0.059,0.923
+"concurrent_yx","PRINFL","Peer antisocial influence","Positive control","18-21",0.07,0.02,0.12,0.006,-0.053,-0.11,0.003,0.065
+"concurrent_yx","PRINFL","Peer antisocial influence","Positive control","21-23",0.046,-0.019,0.112,0.165,-0.085,-0.159,-0.012,0.023
+"concurrent_xy","WORK_PROP","Employment (share of period)","Bonds","16-18",0.096,-0.182,0.374,0.499,-0.012,-0.023,-0.001,0.033
+"concurrent_xy","WORK_PROP","Employment (share of period)","Bonds","18-21",0.038,-0.06,0.135,0.45,-0.016,-0.029,-0.002,0.023
+"concurrent_xy","WORK_PROP","Employment (share of period)","Bonds","21-23",0.118,0.008,0.229,0.035,-0.045,-0.066,-0.023,0
+"concurrent_yx","WORK_PROP","Employment (share of period)","Bonds","16-18",0.051,-0.235,0.336,0.727,-0.01,-0.021,0.001,0.078
+"concurrent_yx","WORK_PROP","Employment (share of period)","Bonds","18-21",-0.003,-0.107,0.102,0.962,-0.013,-0.026,0,0.054
+"concurrent_yx","WORK_PROP","Employment (share of period)","Bonds","21-23",0.067,-0.044,0.178,0.235,-0.04,-0.062,-0.018,0
+"concurrent_xy","SCHOOL_PROP","School (share of period)","Bonds","16-18",0.026,-0.139,0.191,0.758,-0.026,-0.039,-0.013,0
+"concurrent_xy","SCHOOL_PROP","School (share of period)","Bonds","18-21",0.041,-0.064,0.145,0.444,-0.003,-0.01,0.004,0.38
+"concurrent_xy","SCHOOL_PROP","School (share of period)","Bonds","21-23",0.156,-0.039,0.351,0.116,0.001,-0.009,0.011,0.782
+"concurrent_yx","SCHOOL_PROP","School (share of period)","Bonds","16-18",0.02,-0.139,0.178,0.808,-0.026,-0.039,-0.013,0
+"concurrent_yx","SCHOOL_PROP","School (share of period)","Bonds","18-21",0.043,-0.059,0.145,0.408,-0.003,-0.01,0.004,0.427
+"concurrent_yx","SCHOOL_PROP","School (share of period)","Bonds","21-23",0.162,-0.05,0.373,0.135,0.002,-0.008,0.012,0.719
+"concurrent_xy","PARTNER","Living with partner","Bonds","16-18",0.239,-0.119,0.597,0.19,0.007,-0.006,0.02,0.291
+"concurrent_xy","PARTNER","Living with partner","Bonds","18-21",-0.066,-0.15,0.019,0.128,-0.019,-0.037,-0.002,0.033
+"concurrent_xy","PARTNER","Living with partner","Bonds","21-23",0.065,-0.027,0.156,0.166,-0.049,-0.072,-0.027,0
+"concurrent_yx","PARTNER","Living with partner","Bonds","16-18",0.232,-0.127,0.591,0.205,0.007,-0.006,0.02,0.279
+"concurrent_yx","PARTNER","Living with partner","Bonds","18-21",-0.069,-0.154,0.015,0.109,-0.019,-0.036,-0.002,0.031
+"concurrent_yx","PARTNER","Living with partner","Bonds","21-23",0.062,-0.031,0.155,0.194,-0.049,-0.072,-0.026,0
+"concurrent_xy","PARENT","Parent","Bonds","16-18",0.101,-0.087,0.29,0.292,0,-0.019,0.019,0.987
+"concurrent_xy","PARENT","Parent","Bonds","18-21",0.089,-0.003,0.182,0.057,0.016,0,0.033,0.049
+"concurrent_xy","PARENT","Parent","Bonds","21-23",0.085,-0.003,0.174,0.059,-0.013,-0.03,0.005,0.151
+"concurrent_yx","PARENT","Parent","Bonds","16-18",0.082,-0.094,0.258,0.362,0.002,-0.017,0.021,0.863
+"concurrent_yx","PARENT","Parent","Bonds","18-21",0.061,-0.027,0.149,0.176,0.017,0.001,0.033,0.037
+"concurrent_yx","PARENT","Parent","Bonds","21-23",0.056,-0.024,0.136,0.169,-0.012,-0.028,0.005,0.167

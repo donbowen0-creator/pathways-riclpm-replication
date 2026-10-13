@@ -1,0 +1,4 @@
+"scenario","phi","hybrid_OR_with_prior_offending","hybrid_OR_no_prior_offending","riclpm_cross_lag"
+"No same-period link",0.5,"1.001 (0.932 to 1.089)","1.001 (0.940 to 1.076)","0.002 (-0.023 to 0.028)"
+"Same-period link, swings don't persist",0,"0.563 (0.509 to 0.612)","0.853 (0.789 to 0.907)","-0.154 (-0.175 to -0.132)"
+"Same-period link, swings persist",0.5,"0.839 (0.782 to 0.911)","1.240 (1.173 to 1.326)","0.103 (0.077 to 0.129)"

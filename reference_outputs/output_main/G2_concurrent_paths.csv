@@ -1,0 +1,37 @@
+"variable","predictor","direction","same_age_path","lo","hi","p"
+"EXPECT","Expectations for the future","xy",-0.124,-0.152,-0.095,0
+"EXPECT","Expectations for the future","yx",-0.109,-0.134,-0.084,0
+"MORDIS","Moral disengagement","xy",0.152,0.117,0.187,0
+"MORDIS","Moral disengagement","yx",0.127,0.097,0.157,0
+"SOCCST","Social costs of punishment","xy",-0.008,-0.03,0.014,0.465
+"SOCCST","Social costs of punishment","yx",-0.017,-0.043,0.008,0.187
+"PUNYOU","Certainty of punishment","xy",-0.086,-0.117,-0.055,0
+"PUNYOU","Certainty of punishment","yx",-0.095,-0.124,-0.067,0
+"PERRWD","Personal rewards of crime","xy",0.156,0.121,0.191,0
+"PERRWD","Personal rewards of crime","yx",0.143,0.116,0.17,0
+"SOCRWD","Social rewards of crime","xy",0.12,0.094,0.146,0
+"SOCRWD","Social rewards of crime","yx",0.136,0.105,0.166,0
+"PSMIID","Identity (PSMI)","xy",-0.065,-0.09,-0.039,0
+"PSMIID","Identity (PSMI)","yx",-0.066,-0.091,-0.041,0
+"IMPULS","Impulse control","xy",-0.198,-0.232,-0.164,0
+"IMPULS","Impulse control","yx",-0.152,-0.175,-0.128,0
+"SUPAGG","Suppression of aggression","xy",-0.191,-0.227,-0.156,0
+"SUPAGG","Suppression of aggression","yx",-0.161,-0.186,-0.135,0
+"CONSID","Consideration of others","xy",-0.056,-0.084,-0.027,0
+"CONSID","Consideration of others","yx",-0.052,-0.079,-0.024,0
+"FUTURE","Future orientation","xy",-0.083,-0.11,-0.055,0
+"FUTURE","Future orientation","yx",-0.084,-0.11,-0.058,0
+"PEERPR","Resistance to peer influence","xy",-0.063,-0.094,-0.033,0
+"PEERPR","Resistance to peer influence","yx",-0.052,-0.077,-0.026,0
+"PSMI","Psychosocial maturity (PSMI)","xy",-0.08,-0.107,-0.053,0
+"PSMI","Psychosocial maturity (PSMI)","yx",-0.072,-0.097,-0.048,0
+"PRINFL","Peer antisocial influence","xy",0.334,0.296,0.373,0
+"PRINFL","Peer antisocial influence","yx",0.397,0.36,0.434,0
+"WORK_PROP","Employment (share of period)","xy",-0.118,-0.189,-0.047,0.001
+"WORK_PROP","Employment (share of period)","yx",-0.017,-0.027,-0.007,0.001
+"SCHOOL_PROP","School (share of period)","xy",-0.013,-0.098,0.072,0.763
+"SCHOOL_PROP","School (share of period)","yx",0.001,-0.006,0.008,0.827
+"PARTNER","Living with partner","xy",-0.006,-0.07,0.058,0.856
+"PARTNER","Living with partner","yx",-0.002,-0.014,0.01,0.782
+"PARENT","Parent","xy",-0.033,-0.103,0.037,0.355
+"PARENT","Parent","yx",-0.006,-0.016,0.005,0.275

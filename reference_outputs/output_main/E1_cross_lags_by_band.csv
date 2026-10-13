@@ -1,0 +1,109 @@
+"model","variable","predictor","domain","band","X_to_off","lo","hi","p","off_to_X","lo_r","hi_r","p_r"
+"main","EXPECT","Expectations for the future","Cognitive","16-18",0.067,-0.026,0.16,0.158,-0.047,-0.085,-0.009,0.015
+"main","EXPECT","Expectations for the future","Cognitive","18-21",-0.028,-0.074,0.018,0.232,-0.009,-0.049,0.031,0.666
+"main","EXPECT","Expectations for the future","Cognitive","21-23",-0.028,-0.079,0.022,0.271,-0.08,-0.146,-0.014,0.018
+"with_childhood_on_intercepts","EXPECT","Expectations for the future","Cognitive","16-18",0.073,-0.016,0.163,0.109,-0.034,-0.072,0.003,0.072
+"with_childhood_on_intercepts","EXPECT","Expectations for the future","Cognitive","18-21",-0.036,-0.082,0.01,0.125,-0.02,-0.06,0.02,0.333
+"with_childhood_on_intercepts","EXPECT","Expectations for the future","Cognitive","21-23",-0.04,-0.091,0.01,0.119,-0.098,-0.162,-0.034,0.003
+"main","MORDIS","Moral disengagement","Cognitive","16-18",0.088,0.004,0.172,0.04,0.038,0.001,0.075,0.045
+"main","MORDIS","Moral disengagement","Cognitive","18-21",-0.029,-0.081,0.023,0.277,0.022,-0.022,0.066,0.333
+"main","MORDIS","Moral disengagement","Cognitive","21-23",0.076,0.013,0.14,0.018,0.009,-0.056,0.075,0.785
+"with_childhood_on_intercepts","MORDIS","Moral disengagement","Cognitive","16-18",0.079,-0.004,0.162,0.062,0.027,-0.01,0.063,0.159
+"with_childhood_on_intercepts","MORDIS","Moral disengagement","Cognitive","18-21",-0.021,-0.073,0.032,0.443,0.028,-0.017,0.073,0.223
+"with_childhood_on_intercepts","MORDIS","Moral disengagement","Cognitive","21-23",0.083,0.02,0.145,0.009,0.024,-0.041,0.089,0.468
+"main","SOCCST","Social costs of punishment","Cognitive","16-18",0.016,-0.042,0.074,0.583,0.01,-0.028,0.047,0.618
+"main","SOCCST","Social costs of punishment","Cognitive","18-21",0.026,-0.01,0.063,0.158,0.034,-0.009,0.076,0.118
+"main","SOCCST","Social costs of punishment","Cognitive","21-23",-0.024,-0.066,0.019,0.276,-0.025,-0.088,0.039,0.446
+"with_childhood_on_intercepts","SOCCST","Social costs of punishment","Cognitive","16-18",0.005,-0.053,0.063,0.867,0.018,-0.02,0.056,0.357
+"with_childhood_on_intercepts","SOCCST","Social costs of punishment","Cognitive","18-21",0.02,-0.017,0.057,0.292,0.023,-0.019,0.066,0.279
+"with_childhood_on_intercepts","SOCCST","Social costs of punishment","Cognitive","21-23",-0.017,-0.06,0.025,0.422,-0.023,-0.085,0.04,0.477
+"main","PUNYOU","Certainty of punishment","Cognitive","16-18",0.019,-0.056,0.093,0.621,-0.065,-0.102,-0.028,0.001
+"main","PUNYOU","Certainty of punishment","Cognitive","18-21",0.046,0,0.092,0.049,0.022,-0.02,0.063,0.309
+"main","PUNYOU","Certainty of punishment","Cognitive","21-23",0.001,-0.042,0.044,0.962,-0.041,-0.107,0.026,0.229
+"with_childhood_on_intercepts","PUNYOU","Certainty of punishment","Cognitive","16-18",0.015,-0.059,0.089,0.691,-0.06,-0.097,-0.023,0.001
+"with_childhood_on_intercepts","PUNYOU","Certainty of punishment","Cognitive","18-21",0.037,-0.008,0.083,0.108,0.015,-0.027,0.057,0.479
+"with_childhood_on_intercepts","PUNYOU","Certainty of punishment","Cognitive","21-23",0.008,-0.036,0.051,0.73,-0.04,-0.106,0.025,0.228
+"main","PERRWD","Personal rewards of crime","Cognitive","16-18",0.122,0.051,0.193,0.001,0.089,0.048,0.13,0
+"main","PERRWD","Personal rewards of crime","Cognitive","18-21",0.052,-0.002,0.105,0.057,0.044,-0.001,0.089,0.055
+"main","PERRWD","Personal rewards of crime","Cognitive","21-23",0.002,-0.054,0.058,0.948,-0.024,-0.091,0.044,0.493
+"with_childhood_on_intercepts","PERRWD","Personal rewards of crime","Cognitive","16-18",0.107,0.035,0.178,0.004,0.078,0.036,0.119,0
+"with_childhood_on_intercepts","PERRWD","Personal rewards of crime","Cognitive","18-21",0.049,-0.004,0.102,0.071,0.043,-0.002,0.088,0.063
+"with_childhood_on_intercepts","PERRWD","Personal rewards of crime","Cognitive","21-23",0.023,-0.031,0.077,0.41,0.003,-0.061,0.067,0.923
+"main","SOCRWD","Social rewards of crime","Cognitive","16-18",0.078,0.009,0.148,0.027,0.013,-0.025,0.051,0.507
+"main","SOCRWD","Social rewards of crime","Cognitive","18-21",0.014,-0.033,0.061,0.55,0.053,0.007,0.1,0.024
+"main","SOCRWD","Social rewards of crime","Cognitive","21-23",0.002,-0.037,0.04,0.933,0.014,-0.05,0.079,0.662
+"with_childhood_on_intercepts","SOCRWD","Social rewards of crime","Cognitive","16-18",0.069,0.003,0.136,0.04,0.001,-0.038,0.04,0.957
+"with_childhood_on_intercepts","SOCRWD","Social rewards of crime","Cognitive","18-21",0.015,-0.032,0.062,0.534,0.057,0.012,0.102,0.013
+"with_childhood_on_intercepts","SOCRWD","Social rewards of crime","Cognitive","21-23",0.008,-0.032,0.048,0.686,0.04,-0.023,0.103,0.218
+"main","PSMIID","Identity (PSMI)","Cognitive","16-18",0.01,-0.053,0.073,0.763,-0.029,-0.065,0.007,0.115
+"main","PSMIID","Identity (PSMI)","Cognitive","18-21",-0.019,-0.057,0.02,0.345,-0.032,-0.07,0.006,0.099
+"main","PSMIID","Identity (PSMI)","Cognitive","21-23",-0.011,-0.056,0.033,0.618,-0.002,-0.054,0.049,0.938
+"with_childhood_on_intercepts","PSMIID","Identity (PSMI)","Cognitive","16-18",0.019,-0.044,0.082,0.553,-0.01,-0.047,0.026,0.577
+"with_childhood_on_intercepts","PSMIID","Identity (PSMI)","Cognitive","18-21",-0.024,-0.063,0.015,0.224,-0.037,-0.074,0.001,0.058
+"with_childhood_on_intercepts","PSMIID","Identity (PSMI)","Cognitive","21-23",-0.029,-0.073,0.016,0.21,-0.027,-0.079,0.024,0.3
+"main","IMPULS","Impulse control","Maturation","16-18",-0.035,-0.112,0.043,0.382,-0.037,-0.074,0,0.048
+"main","IMPULS","Impulse control","Maturation","18-21",-0.006,-0.057,0.045,0.828,-0.038,-0.079,0.002,0.06
+"main","IMPULS","Impulse control","Maturation","21-23",-0.065,-0.127,-0.003,0.041,-0.005,-0.061,0.05,0.847
+"with_childhood_on_intercepts","IMPULS","Impulse control","Maturation","16-18",-0.027,-0.103,0.049,0.487,-0.03,-0.067,0.007,0.112
+"with_childhood_on_intercepts","IMPULS","Impulse control","Maturation","18-21",-0.012,-0.063,0.039,0.65,-0.039,-0.079,0.001,0.053
+"with_childhood_on_intercepts","IMPULS","Impulse control","Maturation","21-23",-0.068,-0.129,-0.007,0.028,-0.014,-0.067,0.04,0.618
+"main","SUPAGG","Suppression of aggression","Maturation","16-18",-0.04,-0.109,0.029,0.253,-0.052,-0.087,-0.017,0.003
+"main","SUPAGG","Suppression of aggression","Maturation","18-21",-0.026,-0.073,0.021,0.275,-0.026,-0.063,0.012,0.175
+"main","SUPAGG","Suppression of aggression","Maturation","21-23",-0.04,-0.096,0.016,0.164,-0.014,-0.065,0.036,0.584
+"with_childhood_on_intercepts","SUPAGG","Suppression of aggression","Maturation","16-18",-0.03,-0.098,0.038,0.387,-0.041,-0.076,-0.007,0.02
+"with_childhood_on_intercepts","SUPAGG","Suppression of aggression","Maturation","18-21",-0.033,-0.081,0.015,0.172,-0.032,-0.07,0.006,0.102
+"with_childhood_on_intercepts","SUPAGG","Suppression of aggression","Maturation","21-23",-0.049,-0.105,0.007,0.084,-0.03,-0.08,0.02,0.237
+"main","CONSID","Consideration of others","Maturation","16-18",-0.03,-0.094,0.034,0.362,-0.023,-0.061,0.014,0.224
+"main","CONSID","Consideration of others","Maturation","18-21",0.015,-0.031,0.061,0.532,0.03,-0.017,0.077,0.209
+"main","CONSID","Consideration of others","Maturation","21-23",-0.016,-0.071,0.038,0.555,0.03,-0.032,0.093,0.343
+"with_childhood_on_intercepts","CONSID","Consideration of others","Maturation","16-18",-0.024,-0.088,0.04,0.457,-0.017,-0.055,0.021,0.375
+"with_childhood_on_intercepts","CONSID","Consideration of others","Maturation","18-21",0.015,-0.031,0.061,0.524,0.028,-0.019,0.074,0.24
+"with_childhood_on_intercepts","CONSID","Consideration of others","Maturation","21-23",-0.027,-0.08,0.027,0.334,0.017,-0.044,0.079,0.583
+"main","FUTURE","Future orientation","Maturation","16-18",-0.028,-0.102,0.046,0.452,-0.041,-0.08,-0.001,0.044
+"main","FUTURE","Future orientation","Maturation","18-21",0.011,-0.034,0.057,0.631,0.001,-0.036,0.038,0.958
+"main","FUTURE","Future orientation","Maturation","21-23",-0.034,-0.085,0.017,0.19,0.008,-0.051,0.067,0.79
+"with_childhood_on_intercepts","FUTURE","Future orientation","Maturation","16-18",-0.015,-0.09,0.059,0.689,-0.024,-0.063,0.016,0.242
+"with_childhood_on_intercepts","FUTURE","Future orientation","Maturation","18-21",0.002,-0.044,0.049,0.916,-0.008,-0.045,0.029,0.69
+"with_childhood_on_intercepts","FUTURE","Future orientation","Maturation","21-23",-0.049,-0.1,0.003,0.063,-0.016,-0.074,0.041,0.585
+"main","PEERPR","Resistance to peer influence","Maturation","16-18",0.019,-0.038,0.076,0.52,-0.02,-0.057,0.017,0.294
+"main","PEERPR","Resistance to peer influence","Maturation","18-21",-0.003,-0.05,0.045,0.914,-0.021,-0.067,0.024,0.359
+"main","PEERPR","Resistance to peer influence","Maturation","21-23",-0.009,-0.059,0.04,0.706,0.013,-0.039,0.065,0.623
+"with_childhood_on_intercepts","PEERPR","Resistance to peer influence","Maturation","16-18",0.033,-0.024,0.089,0.261,-0.003,-0.041,0.034,0.871
+"with_childhood_on_intercepts","PEERPR","Resistance to peer influence","Maturation","18-21",-0.012,-0.059,0.035,0.623,-0.026,-0.072,0.019,0.259
+"with_childhood_on_intercepts","PEERPR","Resistance to peer influence","Maturation","21-23",-0.025,-0.074,0.024,0.324,-0.002,-0.052,0.049,0.949
+"main","PSMI","Psychosocial maturity (PSMI)","Maturation","16-18",0.01,-0.053,0.073,0.75,-0.04,-0.075,-0.005,0.025
+"main","PSMI","Psychosocial maturity (PSMI)","Maturation","18-21",-0.012,-0.055,0.03,0.564,-0.032,-0.07,0.007,0.104
+"main","PSMI","Psychosocial maturity (PSMI)","Maturation","21-23",-0.004,-0.051,0.043,0.873,0.01,-0.042,0.062,0.709
+"with_childhood_on_intercepts","PSMI","Psychosocial maturity (PSMI)","Maturation","16-18",0.023,-0.039,0.086,0.467,-0.02,-0.055,0.015,0.254
+"with_childhood_on_intercepts","PSMI","Psychosocial maturity (PSMI)","Maturation","18-21",-0.02,-0.062,0.022,0.344,-0.038,-0.076,0,0.048
+"with_childhood_on_intercepts","PSMI","Psychosocial maturity (PSMI)","Maturation","21-23",-0.022,-0.069,0.024,0.345,-0.016,-0.067,0.035,0.539
+"main","PRINFL","Peer antisocial influence","Positive control","16-18",0.047,-0.016,0.111,0.144,0.076,0.014,0.138,0.016
+"main","PRINFL","Peer antisocial influence","Positive control","18-21",0.073,0.022,0.123,0.005,-0.006,-0.07,0.057,0.844
+"main","PRINFL","Peer antisocial influence","Positive control","21-23",0.046,-0.023,0.115,0.192,-0.033,-0.113,0.048,0.425
+"with_childhood_on_intercepts","PRINFL","Peer antisocial influence","Positive control","16-18",0.035,-0.028,0.099,0.274,0.062,-0.001,0.124,0.053
+"with_childhood_on_intercepts","PRINFL","Peer antisocial influence","Positive control","18-21",0.078,0.027,0.129,0.003,0,-0.064,0.064,0.99
+"with_childhood_on_intercepts","PRINFL","Peer antisocial influence","Positive control","21-23",0.062,-0.006,0.129,0.074,-0.01,-0.092,0.072,0.809
+"main","WORK_PROP","Employment (share of period)","Bonds","16-18",0.077,-0.21,0.364,0.598,-0.013,-0.024,-0.001,0.034
+"main","WORK_PROP","Employment (share of period)","Bonds","18-21",-0.01,-0.114,0.095,0.856,-0.016,-0.03,-0.003,0.019
+"main","WORK_PROP","Employment (share of period)","Bonds","21-23",0.056,-0.056,0.168,0.326,-0.044,-0.065,-0.022,0
+"with_childhood_on_intercepts","WORK_PROP","Employment (share of period)","Bonds","16-18",0.054,-0.221,0.33,0.699,-0.01,-0.022,0.001,0.076
+"with_childhood_on_intercepts","WORK_PROP","Employment (share of period)","Bonds","18-21",-0.013,-0.118,0.092,0.803,-0.017,-0.031,-0.004,0.011
+"with_childhood_on_intercepts","WORK_PROP","Employment (share of period)","Bonds","21-23",0.066,-0.046,0.178,0.25,-0.044,-0.065,-0.023,0
+"main","SCHOOL_PROP","School (share of period)","Bonds","16-18",0.047,-0.115,0.208,0.572,-0.027,-0.041,-0.013,0
+"main","SCHOOL_PROP","School (share of period)","Bonds","18-21",0.033,-0.068,0.135,0.519,-0.003,-0.01,0.004,0.465
+"main","SCHOOL_PROP","School (share of period)","Bonds","21-23",0.204,-0.017,0.425,0.071,0.004,-0.006,0.014,0.42
+"with_childhood_on_intercepts","SCHOOL_PROP","School (share of period)","Bonds","16-18",0.048,-0.109,0.206,0.548,-0.026,-0.039,-0.012,0
+"with_childhood_on_intercepts","SCHOOL_PROP","School (share of period)","Bonds","18-21",0.056,-0.046,0.158,0.284,-0.003,-0.01,0.004,0.41
+"with_childhood_on_intercepts","SCHOOL_PROP","School (share of period)","Bonds","21-23",0.187,-0.032,0.406,0.094,0.003,-0.007,0.013,0.532
+"main","PARTNER","Living with partner","Bonds","16-18",0.21,-0.144,0.564,0.245,0.007,-0.006,0.02,0.32
+"main","PARTNER","Living with partner","Bonds","18-21",-0.066,-0.15,0.019,0.129,-0.018,-0.036,-0.001,0.04
+"main","PARTNER","Living with partner","Bonds","21-23",0.066,-0.028,0.16,0.171,-0.051,-0.074,-0.028,0
+"with_childhood_on_intercepts","PARTNER","Living with partner","Bonds","16-18",0.22,-0.125,0.564,0.211,0.005,-0.008,0.017,0.441
+"with_childhood_on_intercepts","PARTNER","Living with partner","Bonds","18-21",-0.059,-0.144,0.027,0.181,-0.017,-0.034,0,0.055
+"with_childhood_on_intercepts","PARTNER","Living with partner","Bonds","21-23",0.072,-0.021,0.165,0.127,-0.05,-0.072,-0.028,0
+"main","PARENT","Parent","Bonds","16-18",0.103,-0.08,0.287,0.268,-0.002,-0.022,0.019,0.881
+"main","PARENT","Parent","Bonds","18-21",0.058,-0.03,0.145,0.197,0.016,0,0.032,0.051
+"main","PARENT","Parent","Bonds","21-23",0.055,-0.025,0.135,0.181,-0.011,-0.028,0.007,0.228
+"with_childhood_on_intercepts","PARENT","Parent","Bonds","16-18",0.128,-0.045,0.301,0.146,-0.001,-0.022,0.019,0.916
+"with_childhood_on_intercepts","PARENT","Parent","Bonds","18-21",0.078,-0.01,0.165,0.081,0.019,0.004,0.035,0.016
+"with_childhood_on_intercepts","PARENT","Parent","Bonds","21-23",0.073,-0.006,0.152,0.07,-0.009,-0.026,0.008,0.319

@@ -1,0 +1,14 @@
+"predictor","same_age_r","stability_X","observed_mean_cross_lag","null_mean","null_lo","null_hi","outside_null_range"
+"Peer antisocial influence",0.362,0.163,0.064,-0.003,-0.022,0.017,TRUE
+"Impulse control",-0.177,0.182,-0.029,-0.003,-0.021,0.012,TRUE
+"Suppression of aggression",-0.173,0.235,-0.032,-0.009,-0.031,0.021,TRUE
+"Personal rewards of crime",0.148,0.208,0.049,0.007,-0.009,0.029,TRUE
+"Moral disengagement",0.143,0.192,0.031,0.007,-0.016,0.023,TRUE
+"Expectations",-0.123,0.207,-0.01,-0.004,-0.021,0.021,FALSE
+"Certainty of punishment",-0.088,0.16,0.028,0.002,-0.019,0.023,TRUE
+"Future orientation",-0.082,0.176,-0.013,0.002,-0.017,0.021,FALSE
+"Psychosocial maturity",-0.076,0.203,-0.006,-0.002,-0.027,0.016,FALSE
+"Identity (PSMI)",-0.062,0.187,-0.012,0.001,-0.019,0.023,FALSE
+"Resistance to peer influence",-0.055,0.158,-0.002,0.001,-0.018,0.022,FALSE
+"Consideration of others",-0.052,0.137,-0.001,-0.001,-0.022,0.019,FALSE
+"Social costs of punishment",-0.011,0.129,0.009,0.001,-0.019,0.02,FALSE

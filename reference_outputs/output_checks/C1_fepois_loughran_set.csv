@@ -1,0 +1,5 @@
+"predictor","same_IRR","same_lo","same_hi","same_p","prev_IRR","prev_lo","prev_hi","prev_p"
+"Certainty of punishment",0.815,0.773,0.858,0,0.996,0.941,1.054,0.892
+"Personal rewards of crime",1.255,1.189,1.324,0,1.045,0.992,1.101,0.097
+"Social rewards of crime",1.201,1.127,1.279,0,0.998,0.934,1.066,0.944
+"Social costs of punishment",0.974,0.926,1.025,0.307,0.993,0.942,1.048,0.804

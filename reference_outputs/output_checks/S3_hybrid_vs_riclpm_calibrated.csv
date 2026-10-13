@@ -1,0 +1,11 @@
+"predictor","true_lagged_effect","hybrid_OR_mean","hybrid_lo","hybrid_hi","riclpm_mean","riclpm_lo","riclpm_hi"
+"Peer antisocial influence",0,0.765,0.719,0.831,-0.002,-0.025,0.015
+"Peer antisocial influence",0.064,0.869,0.8,0.93,0.061,0.04,0.091
+"Moral disengagement",0,0.899,0.842,0.965,0.003,-0.014,0.016
+"Moral disengagement",0.031,0.965,0.907,1.018,0.029,0.011,0.051
+"Personal rewards of crime",0,0.91,0.847,1.002,0.004,-0.02,0.024
+"Personal rewards of crime",0.049,1.006,0.928,1.079,0.056,0.036,0.077
+"Impulse control",0,1.156,1.069,1.264,0.001,-0.025,0.023
+"Impulse control",-0.029,1.081,1.016,1.165,-0.032,-0.047,-0.012
+"Certainty of punishment",0,1.084,1.008,1.156,0,-0.016,0.019
+"Certainty of punishment",0.028,1.121,1.056,1.188,0.03,0.003,0.05

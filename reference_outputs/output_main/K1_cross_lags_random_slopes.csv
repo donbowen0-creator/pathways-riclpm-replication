@@ -1,0 +1,55 @@
+"model","variable","predictor","domain","band","X_to_off","lo","hi","p","off_to_X","lo_r","hi_r","p_r"
+"random_slopes","EXPECT","Expectations for the future","Cognitive","16-18",0.076,-0.043,0.196,0.211,-0.051,-0.097,-0.005,0.03
+"random_slopes","EXPECT","Expectations for the future","Cognitive","18-21",-0.022,-0.067,0.023,0.329,0.007,-0.033,0.047,0.715
+"random_slopes","EXPECT","Expectations for the future","Cognitive","21-23",-0.064,-0.125,-0.003,0.04,-0.113,-0.183,-0.042,0.002
+"random_slopes","MORDIS","Moral disengagement","Cognitive","16-18",0.102,-0.003,0.207,0.058,0.042,-0.003,0.087,0.065
+"random_slopes","MORDIS","Moral disengagement","Cognitive","18-21",-0.03,-0.082,0.022,0.257,0.013,-0.032,0.058,0.583
+"random_slopes","MORDIS","Moral disengagement","Cognitive","21-23",0.085,0.008,0.162,0.03,0.007,-0.07,0.085,0.85
+"random_slopes","SOCCST","Social costs of punishment","Cognitive","16-18",0.021,-0.048,0.091,0.547,0.012,-0.03,0.055,0.566
+"random_slopes","SOCCST","Social costs of punishment","Cognitive","18-21",0.027,-0.01,0.063,0.153,0.045,0.003,0.087,0.036
+"random_slopes","SOCCST","Social costs of punishment","Cognitive","21-23",-0.026,-0.081,0.03,0.362,-0.017,-0.085,0.051,0.622
+"random_slopes","PUNYOU","Certainty of punishment","Cognitive","16-18",0.034,-0.053,0.121,0.44,-0.058,-0.102,-0.015,0.009
+"random_slopes","PUNYOU","Certainty of punishment","Cognitive","18-21",0.045,-0.001,0.09,0.053,0.028,-0.014,0.07,0.195
+"random_slopes","PUNYOU","Certainty of punishment","Cognitive","21-23",0.023,-0.033,0.079,0.426,-0.024,-0.103,0.055,0.555
+"random_slopes","PERRWD","Personal rewards of crime","Cognitive","16-18",0.122,0.037,0.206,0.005,0.088,0.039,0.138,0
+"random_slopes","PERRWD","Personal rewards of crime","Cognitive","18-21",0.046,-0.007,0.099,0.089,0.04,-0.007,0.088,0.094
+"random_slopes","PERRWD","Personal rewards of crime","Cognitive","21-23",0.015,-0.058,0.089,0.683,-0.005,-0.078,0.069,0.903
+"random_slopes","SOCRWD","Social rewards of crime","Cognitive","16-18",0.069,-0.016,0.155,0.109,0.014,-0.034,0.062,0.568
+"random_slopes","SOCRWD","Social rewards of crime","Cognitive","18-21",0.014,-0.031,0.06,0.534,0.05,0.004,0.096,0.035
+"random_slopes","SOCRWD","Social rewards of crime","Cognitive","21-23",-0.017,-0.066,0.032,0.503,0.015,-0.055,0.085,0.681
+"random_slopes","PSMIID","Identity (PSMI)","Cognitive","16-18",0.021,-0.056,0.097,0.597,-0.021,-0.064,0.023,0.346
+"random_slopes","PSMIID","Identity (PSMI)","Cognitive","18-21",-0.016,-0.055,0.022,0.406,-0.022,-0.061,0.016,0.259
+"random_slopes","PSMIID","Identity (PSMI)","Cognitive","21-23",0.007,-0.048,0.063,0.8,0.026,-0.037,0.088,0.421
+"random_slopes","IMPULS","Impulse control","Maturation","16-18",-0.035,-0.123,0.053,0.438,-0.034,-0.077,0.009,0.122
+"random_slopes","IMPULS","Impulse control","Maturation","18-21",-0.006,-0.056,0.044,0.81,-0.026,-0.065,0.014,0.202
+"random_slopes","IMPULS","Impulse control","Maturation","21-23",-0.071,-0.156,0.014,0.101,-0.024,-0.091,0.042,0.473
+"random_slopes","SUPAGG","Suppression of aggression","Maturation","16-18",-0.04,-0.123,0.044,0.353,-0.052,-0.093,-0.012,0.011
+"random_slopes","SUPAGG","Suppression of aggression","Maturation","18-21",-0.024,-0.068,0.021,0.299,-0.016,-0.052,0.021,0.397
+"random_slopes","SUPAGG","Suppression of aggression","Maturation","21-23",-0.068,-0.152,0.016,0.114,-0.053,-0.116,0.009,0.094
+"random_slopes","CONSID","Consideration of others","Maturation","16-18",0.035,-0.038,0.107,0.345,0.011,-0.032,0.055,0.606
+"random_slopes","CONSID","Consideration of others","Maturation","18-21",0.023,-0.022,0.068,0.319,0.04,-0.005,0.085,0.078
+"random_slopes","CONSID","Consideration of others","Maturation","21-23",-0.004,-0.069,0.06,0.894,0.029,-0.043,0.101,0.434
+"random_slopes","FUTURE","Future orientation","Maturation","16-18",-0.015,-0.101,0.071,0.739,-0.038,-0.085,0.009,0.11
+"random_slopes","FUTURE","Future orientation","Maturation","18-21",0.009,-0.036,0.055,0.687,0.011,-0.027,0.049,0.569
+"random_slopes","FUTURE","Future orientation","Maturation","21-23",-0.035,-0.1,0.031,0.299,0.001,-0.065,0.066,0.985
+"random_slopes","PEERPR","Resistance to peer influence","Maturation","16-18",0.021,-0.051,0.092,0.568,-0.016,-0.061,0.029,0.478
+"random_slopes","PEERPR","Resistance to peer influence","Maturation","18-21",-0.002,-0.05,0.045,0.922,-0.019,-0.065,0.028,0.435
+"random_slopes","PEERPR","Resistance to peer influence","Maturation","21-23",0.004,-0.061,0.069,0.896,0.012,-0.049,0.074,0.697
+"random_slopes","PSMI","Psychosocial maturity (PSMI)","Maturation","16-18",0.017,-0.059,0.094,0.66,-0.037,-0.079,0.005,0.087
+"random_slopes","PSMI","Psychosocial maturity (PSMI)","Maturation","18-21",-0.009,-0.051,0.033,0.683,-0.021,-0.061,0.018,0.289
+"random_slopes","PSMI","Psychosocial maturity (PSMI)","Maturation","21-23",0,-0.058,0.058,0.996,0.019,-0.042,0.081,0.539
+"random_slopes","PRINFL","Peer antisocial influence","Positive control","16-18",0.007,-0.07,0.084,0.862,0.055,-0.018,0.128,0.142
+"random_slopes","PRINFL","Peer antisocial influence","Positive control","18-21",0.066,0.014,0.118,0.013,-0.014,-0.079,0.051,0.681
+"random_slopes","PRINFL","Peer antisocial influence","Positive control","21-23",0.019,-0.067,0.105,0.668,-0.009,-0.111,0.092,0.855
+"random_slopes","WORK_PROP","Employment (share of period)","Bonds","16-18",-0.085,-0.361,0.192,0.548,-0.02,-0.034,-0.006,0.005
+"random_slopes","WORK_PROP","Employment (share of period)","Bonds","18-21",0.007,-0.098,0.113,0.889,-0.011,-0.025,0.003,0.124
+"random_slopes","WORK_PROP","Employment (share of period)","Bonds","21-23",-0.067,-0.245,0.112,0.465,-0.06,-0.086,-0.034,0
+"random_slopes","SCHOOL_PROP","School (share of period)","Bonds","16-18",0.16,-0.025,0.344,0.089,-0.017,-0.032,-0.001,0.032
+"random_slopes","SCHOOL_PROP","School (share of period)","Bonds","18-21",0.109,0,0.219,0.05,0.002,-0.005,0.01,0.552
+"random_slopes","SCHOOL_PROP","School (share of period)","Bonds","21-23",0.233,-0.079,0.544,0.143,0.005,-0.006,0.017,0.376
+"random_slopes","PARTNER","Living with partner","Bonds","16-18",0.067,-0.341,0.474,0.749,0.001,-0.018,0.021,0.913
+"random_slopes","PARTNER","Living with partner","Bonds","18-21",-0.053,-0.146,0.04,0.262,-0.014,-0.031,0.004,0.119
+"random_slopes","PARTNER","Living with partner","Bonds","21-23",0.139,-0.016,0.293,0.078,-0.038,-0.069,-0.007,0.017
+"random_slopes","PARENT","Parent","Bonds","16-18",0.181,-0.01,0.372,0.063,-0.001,-0.022,0.02,0.949
+"random_slopes","PARENT","Parent","Bonds","18-21",0.081,-0.024,0.187,0.13,0.018,0.002,0.035,0.03
+"random_slopes","PARENT","Parent","Bonds","21-23",0.066,-0.093,0.225,0.414,-0.008,-0.032,0.015,0.478

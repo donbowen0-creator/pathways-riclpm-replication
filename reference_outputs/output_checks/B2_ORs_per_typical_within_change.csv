@@ -1,0 +1,14 @@
+"predictor","within_sd","same_OR_per_SD","prev_OR_per_SD","same_OR_per_within_SD","same_lo","same_hi","prev_OR_per_within_SD","prev_lo","prev_hi"
+"Expectations",0.643,0.872,1.024,0.915,0.862,0.972,1.015,0.961,1.072
+"Moral disengagement",0.653,1.114,0.976,1.073,1.01,1.139,0.984,0.922,1.05
+"Social costs of punishment",0.738,1,0.978,1,0.947,1.057,0.984,0.927,1.043
+"Certainty of punishment",0.67,0.885,1.074,0.922,0.873,0.973,1.049,0.992,1.11
+"Personal rewards of crime",0.651,1.219,1.003,1.138,1.074,1.205,1.002,0.945,1.063
+"Impulse control",0.598,0.869,1.011,0.919,0.862,0.981,1.007,0.945,1.073
+"Suppression of aggression",0.622,0.751,1.045,0.837,0.783,0.895,1.028,0.961,1.1
+"Consideration of others",0.69,0.964,1.037,0.975,0.917,1.037,1.026,0.967,1.088
+"Future orientation",0.687,0.932,0.981,0.953,0.896,1.013,0.987,0.929,1.049
+"Resistance to peer influence",0.679,0.989,0.991,0.992,0.934,1.055,0.994,0.934,1.057
+"Psychosocial maturity",0.685,1.012,1.009,1.008,0.881,1.153,1.006,0.888,1.141
+"Peer antisocial influence",0.763,1.678,0.914,1.484,1.378,1.598,0.934,0.88,0.991
+"Identity (PSMI)",0.704,0.996,0.972,0.997,0.871,1.142,0.98,0.868,1.106

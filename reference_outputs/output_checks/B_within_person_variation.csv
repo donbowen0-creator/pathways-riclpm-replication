@@ -1,0 +1,18 @@
+"variable","label","sd_total","sd_between","sd_within","within_share_of_variance","within_sd_in_pooled_sd","median_yearly_change_in_pooled_sd","pct_people_who_change"
+"WORK_PROP","Employment (share of period)",0.369,0.26,0.263,0.509,0.713,0.226,84.343
+"SCHOOL_PROP","School (share of period)",0.285,0.17,0.233,0.67,0.818,0,62.555
+"PARTNER","Living with partner",0.379,0.238,0.294,0.6,0.775,0,43.796
+"PARENT","Parent",0.479,0.376,0.298,0.387,0.622,0,42.762
+"EXPECT","Expectations",0.892,0.686,0.573,0.414,0.643,0.561,95.938
+"MORDIS","Moral disengagement",0.351,0.267,0.23,0.427,0.653,0.427,96.16
+"SOCCST","Social costs of punishment",0.93,0.637,0.686,0.545,0.738,0.645,96.233
+"PUNYOU","Certainty of punishment",2.958,2.219,1.98,0.448,0.67,0.436,95.643
+"PERRWD","Personal rewards of crime",2.29,1.753,1.492,0.424,0.651,0.249,85.894
+"IMPULS","Impulse control",0.971,0.783,0.581,0.358,0.598,0.515,95.938
+"SUPAGG","Suppression of aggression",0.962,0.759,0.598,0.387,0.622,0.447,96.16
+"CONSID","Consideration of others",0.797,0.588,0.55,0.476,0.69,0.54,96.381
+"FUTURE","Future orientation",0.559,0.409,0.384,0.472,0.687,0.662,96.307
+"PEERPR","Resistance to peer influence",0.553,0.41,0.375,0.461,0.679,0.543,95.864
+"PSMI","Psychosocial maturity",0.461,0.339,0.316,0.469,0.685,0.499,96.381
+"PRINFL","Peer antisocial influence",0.673,0.44,0.513,0.582,0.763,0.223,86.706
+"PSMIID","Identity (PSMI)",0.505,0.363,0.355,0.496,0.704,0.594,95.421

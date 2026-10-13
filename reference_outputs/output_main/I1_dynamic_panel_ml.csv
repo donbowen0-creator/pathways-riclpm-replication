@@ -1,0 +1,73 @@
+"variable","predictor","direction","partial_pre","est","lo","hi","p","converged"
+"EXPECT","Expectations for the future","X_to_off",FALSE,0.042,0.004,0.081,0.03,TRUE
+"EXPECT","Expectations for the future","off_to_X",FALSE,0.015,-0.011,0.04,0.25,TRUE
+"EXPECT","Expectations for the future","X_to_off",TRUE,-0.067,-0.115,-0.019,0.006,TRUE
+"EXPECT","Expectations for the future","off_to_X",TRUE,-0.017,-0.046,0.012,0.242,TRUE
+"MORDIS","Moral disengagement","X_to_off",FALSE,-0.051,-0.088,-0.014,0.006,TRUE
+"MORDIS","Moral disengagement","off_to_X",FALSE,-0.027,-0.055,0.002,0.067,TRUE
+"MORDIS","Moral disengagement","X_to_off",TRUE,0.053,0.001,0.105,0.046,TRUE
+"MORDIS","Moral disengagement","off_to_X",TRUE,0.021,-0.011,0.053,0.193,TRUE
+"SOCCST","Social costs of punishment","X_to_off",FALSE,0.009,-0.02,0.037,0.544,TRUE
+"SOCCST","Social costs of punishment","off_to_X",FALSE,0.031,0.004,0.058,0.025,TRUE
+"SOCCST","Social costs of punishment","X_to_off",TRUE,0.007,-0.032,0.047,0.724,TRUE
+"SOCCST","Social costs of punishment","off_to_X",TRUE,0.042,0.012,0.073,0.006,TRUE
+"PUNYOU","Certainty of punishment","X_to_off",FALSE,0.084,0.047,0.12,0,TRUE
+"PUNYOU","Certainty of punishment","off_to_X",FALSE,0.025,-0.002,0.053,0.073,TRUE
+"PUNYOU","Certainty of punishment","X_to_off",TRUE,0.028,-0.02,0.077,0.253,TRUE
+"PUNYOU","Certainty of punishment","off_to_X",TRUE,-0.005,-0.034,0.025,0.768,TRUE
+"PERRWD","Personal rewards of crime","X_to_off",FALSE,-0.025,-0.062,0.013,0.205,TRUE
+"PERRWD","Personal rewards of crime","off_to_X",FALSE,0,-0.034,0.033,0.991,TRUE
+"PERRWD","Personal rewards of crime","X_to_off",TRUE,0.098,0.045,0.152,0,TRUE
+"PERRWD","Personal rewards of crime","off_to_X",TRUE,0.068,0.032,0.104,0,TRUE
+"SOCRWD","Social rewards of crime","X_to_off",FALSE,-0.054,-0.089,-0.019,0.002,TRUE
+"SOCRWD","Social rewards of crime","off_to_X",FALSE,-0.03,-0.06,0,0.054,TRUE
+"SOCRWD","Social rewards of crime","X_to_off",TRUE,0.036,-0.009,0.082,0.116,TRUE
+"SOCRWD","Social rewards of crime","off_to_X",TRUE,0.017,-0.016,0.049,0.315,TRUE
+"PSMIID","Identity (PSMI)","X_to_off",FALSE,0.023,-0.007,0.054,0.135,TRUE
+"PSMIID","Identity (PSMI)","off_to_X",FALSE,0.011,-0.012,0.035,0.343,TRUE
+"PSMIID","Identity (PSMI)","X_to_off",TRUE,-0.019,-0.061,0.022,0.363,TRUE
+"PSMIID","Identity (PSMI)","off_to_X",TRUE,-0.014,-0.042,0.014,0.336,TRUE
+"IMPULS","Impulse control","X_to_off",FALSE,0.09,0.052,0.127,0,TRUE
+"IMPULS","Impulse control","off_to_X",FALSE,0.039,0.014,0.064,0.002,TRUE
+"IMPULS","Impulse control","X_to_off",TRUE,-0.077,-0.132,-0.022,0.006,TRUE
+"IMPULS","Impulse control","off_to_X",TRUE,-0.015,-0.043,0.014,0.309,TRUE
+"SUPAGG","Suppression of aggression","X_to_off",FALSE,0.081,0.045,0.116,0,TRUE
+"SUPAGG","Suppression of aggression","off_to_X",FALSE,0.034,0.01,0.058,0.006,TRUE
+"SUPAGG","Suppression of aggression","X_to_off",TRUE,-0.08,-0.132,-0.029,0.002,TRUE
+"SUPAGG","Suppression of aggression","off_to_X",TRUE,-0.026,-0.052,0.001,0.057,TRUE
+"CONSID","Consideration of others","X_to_off",FALSE,0.028,-0.005,0.06,0.096,TRUE
+"CONSID","Consideration of others","off_to_X",FALSE,0.024,-0.002,0.049,0.066,TRUE
+"CONSID","Consideration of others","X_to_off",TRUE,0,-0.044,0.043,0.983,TRUE
+"CONSID","Consideration of others","off_to_X",TRUE,-0.006,-0.036,0.025,0.707,TRUE
+"FUTURE","Future orientation","X_to_off",FALSE,0.022,-0.01,0.055,0.184,TRUE
+"FUTURE","Future orientation","off_to_X",FALSE,0.021,-0.005,0.046,0.109,TRUE
+"FUTURE","Future orientation","X_to_off",TRUE,-0.046,-0.091,-0.001,0.047,TRUE
+"FUTURE","Future orientation","off_to_X",TRUE,-0.005,-0.035,0.025,0.75,TRUE
+"PEERPR","Resistance to peer influence","X_to_off",FALSE,0.05,0.017,0.083,0.003,TRUE
+"PEERPR","Resistance to peer influence","off_to_X",FALSE,0.015,-0.012,0.042,0.266,TRUE
+"PEERPR","Resistance to peer influence","X_to_off",TRUE,0.016,-0.03,0.061,0.504,TRUE
+"PEERPR","Resistance to peer influence","off_to_X",TRUE,-0.014,-0.044,0.016,0.369,TRUE
+"PSMI","Psychosocial maturity (PSMI)","X_to_off",FALSE,0.032,0,0.064,0.052,TRUE
+"PSMI","Psychosocial maturity (PSMI)","off_to_X",FALSE,0.007,-0.017,0.03,0.577,TRUE
+"PSMI","Psychosocial maturity (PSMI)","X_to_off",TRUE,-0.025,-0.069,0.019,0.267,TRUE
+"PSMI","Psychosocial maturity (PSMI)","off_to_X",TRUE,-0.024,-0.051,0.004,0.096,TRUE
+"PRINFL","Peer antisocial influence","X_to_off",FALSE,-0.098,-0.139,-0.057,0,TRUE
+"PRINFL","Peer antisocial influence","off_to_X",FALSE,-0.151,-0.203,-0.099,0,TRUE
+"PRINFL","Peer antisocial influence","X_to_off",TRUE,0.063,0.018,0.107,0.006,TRUE
+"PRINFL","Peer antisocial influence","off_to_X",TRUE,0.026,-0.023,0.074,0.304,TRUE
+"WORK_PROP","Employment (share of period)","X_to_off",FALSE,0.12,0.029,0.21,0.009,TRUE
+"WORK_PROP","Employment (share of period)","off_to_X",FALSE,-0.005,-0.013,0.004,0.293,TRUE
+"WORK_PROP","Employment (share of period)","X_to_off",TRUE,-0.044,-0.212,0.125,0.612,TRUE
+"WORK_PROP","Employment (share of period)","off_to_X",TRUE,-0.004,-0.014,0.005,0.382,TRUE
+"SCHOOL_PROP","School (share of period)","X_to_off",FALSE,0.023,-0.066,0.112,0.618,TRUE
+"SCHOOL_PROP","School (share of period)","off_to_X",FALSE,-0.006,-0.011,-0.001,0.019,TRUE
+"SCHOOL_PROP","School (share of period)","X_to_off",TRUE,0.004,-0.091,0.099,0.938,TRUE
+"SCHOOL_PROP","School (share of period)","off_to_X",TRUE,-0.008,-0.014,-0.002,0.014,TRUE
+"PARTNER","Living with partner","X_to_off",FALSE,-0.001,-0.087,0.085,0.987,TRUE
+"PARTNER","Living with partner","off_to_X",FALSE,-0.009,-0.02,0.002,0.099,TRUE
+"PARTNER","Living with partner","X_to_off",TRUE,-0.014,-0.162,0.135,0.856,TRUE
+"PARTNER","Living with partner","off_to_X",TRUE,-0.003,-0.015,0.009,0.647,TRUE
+"PARENT","Parent","X_to_off",FALSE,0.106,0.007,0.205,0.036,TRUE
+"PARENT","Parent","off_to_X",FALSE,0.009,-0.002,0.021,0.115,TRUE
+"PARENT","Parent","X_to_off",TRUE,0.094,-0.409,0.596,0.715,TRUE
+"PARENT","Parent","off_to_X",TRUE,0.009,-0.005,0.022,0.197,TRUE
