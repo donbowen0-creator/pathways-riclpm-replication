@@ -1,0 +1,23 @@
+{
+  "title": "R code for RI-CLPM analyses of desistance correlates in the Pathways to Desistance study (ICPSR 29961)",
+  "upload_type": "software",
+  "description": "<p>R scripts that build the annual person-year analysis file from the Pathways to Desistance public-use data (ICPSR 29961, Version 2) and reproduce every table, figure and simulation in the accompanying manuscript and its Online Resource 1. The main models are random-intercept cross-lagged panel models (RI-CLPMs) fitted in lavaan for ages 16 to 23, with maximum-likelihood dynamic panel models, multivariate RI-CLPMs and three simulation studies as checks. The ICPSR data are not included (ICPSR terms of use); the reference_outputs folder holds summary estimates only.</p>",
+  "creators": [
+    {
+      "name": "Bowen, Donald",
+      "affiliation": "Independent Researcher, Oceana, West Virginia, USA",
+      "orcid": "0000-0003-3527-9462"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["desistance", "RI-CLPM", "within-person", "Pathways to Desistance", "lavaan", "R"],
+  "related_identifiers": [
+    {
+      "identifier": "10.3886/ICPSR29961.v2",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ],
+  "version": "1.0.0"
+}

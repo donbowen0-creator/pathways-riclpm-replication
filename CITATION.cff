@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "R code for RI-CLPM analyses of desistance correlates in the Pathways to Desistance study (ICPSR 29961)"
+type: software
+authors:
+  - family-names: Bowen
+    given-names: Donald
+    affiliation: "Independent Researcher, Oceana, West Virginia, USA"
+    orcid: "https://orcid.org/0000-0003-3527-9462"
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+repository-code: "https://github.com/donbowen0-creator/pathways-riclpm-replication"
+keywords:
+  - desistance
+  - RI-CLPM
+  - within-person
+  - Pathways to Desistance
+  - lavaan
+  - R
+references:
+  - type: dataset
+    title: "Research on Pathways to Desistance [Maricopa County, AZ and Philadelphia County, PA]: Subject Measures, 2000-2010"
+    authors:
+      - family-names: Mulvey
+        given-names: Edward P.
+    version: "2"
+    doi: 10.3886/ICPSR29961.v2
+    publisher:
+      name: "Inter-university Consortium for Political and Social Research"
