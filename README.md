@@ -1,5 +1,7 @@
 # RI-CLPM analyses of desistance correlates: R code (Pathways to Desistance, ICPSR 29961)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23328939.svg)](https://doi.org/10.5281/zenodo.23328939)
+
 These R scripts build the annual person-year analysis file from the Pathways to Desistance public-use data and reproduce every table, figure and simulation reported in the manuscript and its Online Resource 1. The main models are random-intercept cross-lagged panel models (RI-CLPMs) fitted in lavaan for ages 16 to 23, with maximum-likelihood dynamic panel models (dpm), multivariate RI-CLPMs and three simulation studies as checks.
 
 ## Data (not included)
@@ -71,7 +73,11 @@ An earlier run with R 4.3.3 and lavaan 0.6-17 gave identical estimates. Two thin
 
 ## Citation
 
-Please cite the archived version of this code (see `CITATION.cff` or the Zenodo record) and the ICPSR data above.
+Please cite the archived code and the ICPSR data above:
+
+Bowen, D. (2026). *R code for RI-CLPM analyses of desistance correlates in the Pathways to Desistance study (ICPSR 29961)* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23328939
+
+The DOI 10.5281/zenodo.23328938 always points to the latest version.
 
 ## License
 
